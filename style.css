@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    color:blueviolet
+
+}
+
+button{
+    background-color: blue;
+    height: 50px;
+    width: 200px;
+    border: 50px;
+    border-radius: 50px;
+    font-size:30px;
+}
